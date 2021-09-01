@@ -11,3 +11,6 @@
 - Email and password fields should be required
 - City options for dropdown are : Memphis, Nashville, Knoxville
 - Do not include link next to submit button
+
+
+When the user submits the form, write the values they entered to the bottom of the html page.
