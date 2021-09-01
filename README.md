@@ -1,4 +1,4 @@
-# 200714 html forms ic
+# HTML forms ic
 
 ## Assignment
 - Recreate `html_form.png`
